@@ -1,0 +1,19 @@
+body{
+    background-color: darkgrey;
+    text-align: center;
+    font-family: "Geneva";
+}
+h2{
+    color: azure;
+    text-decoration: underline;
+    font-family: "Academy Engraved LET";
+    font-size: 30px;
+}
+.form{
+    margin: 30px;
+    padding: 30px;
+    border: 7px solid #ffffff;
+    text-transform: uppercase;
+
+
+}

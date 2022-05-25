@@ -1,0 +1,42 @@
+.Fruits{
+    border: 2px solid cornflowerblue;
+    text-align: center;
+    padding: 15px;
+    background-color: mistyrose;
+    margin: 15px;
+}
+.Foods{
+    border: aqua;
+    text-align: center;
+    padding: 20px;
+    background-color: #50e3d2;
+    margin: 15px;
+}
+.FRUITS{
+    border: hotpink;
+    text-align: center;
+    padding: 20px;
+    background-color: #30a6a6;
+    margin: 15px;
+
+}
+#burger{
+    background-color: navy;
+    text-align: center;
+    color: azure;
+    border: black;
+}
+#chicken{
+    background-color: aqua;
+    text-align: center;
+    border: aqua;
+}
+#crisps{
+    background-color: black;
+    text-align: center;
+    color: cyan;border: black;
+}
+.Time{
+    color: aqua;
+    font-family: Georgia;
+}
